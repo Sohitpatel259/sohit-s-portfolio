@@ -9,22 +9,18 @@ I'm Sohit, a passionate developer with experience in building web applications a
 ## Skills
 
 - HTML, CSS, JavaScript
-- React, Node.js
-- Python
 - Git & GitHub
 
 ## Projects
 
-### [Project Name](#)
-Brief description of the project, technologies used, and your role.
+### [Attendance Management System](#)
 
-### [Another Project](#)
-Short summary and key features.
+### [Netflix clone](#)
 
 ## Contact
 
-- Email: sohit@example.com
-- LinkedIn: [linkedin.com/in/sohit](https://linkedin.com/in/sohit)
+- Email: sohitpatel359@gmail.com
+- LinkedIn: [linkedin.com/in/sohit](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sohit-patel-776473273)
 
 ---
 
