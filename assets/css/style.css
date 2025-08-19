@@ -585,11 +585,11 @@ main {
 
 .testimonials-avatar-box {
   position: absolute;
-  top: 0;
+  top: 45px;
   left: 0;
   transform: translate(15px, -25px);
   background: var(--bg-gradient-onyx);
-  border-radius: 14px;
+  border-radius: 7px;
   box-shadow: var(--shadow-1);
 }
 
