@@ -8,14 +8,15 @@ I'm Sohit, a passionate developer with experience in building web applications a
 
 ## Skills
 
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript,Python, OpenCV,Numpy,Pandas, Matplotlib,C++ 
 - Git & GitHub
 
 ## Projects
 
-### [Attendance Management System](#)
+### [Smart Attendance Management System](#)
 
 ### [Netflix clone](#)
+### [Google homepage](#)
 
 ## Contact
 
