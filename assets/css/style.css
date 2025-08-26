@@ -480,7 +480,8 @@ main {
 .service-list {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 20px;
+  row-gap: 20px;
+  column-gap: 20px;
 }
 
 .service-item {
@@ -987,6 +988,77 @@ main {
   font-weight: var(--fw-300);
 }
 
+
+.achievements,
+.licenses-certifications {
+  margin-top: 30px; 
+  margin-bottom: 30px;
+ 
+}
+
+.achievements-list,
+.licenses-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px; 
+  padding: 20px; 
+  padding-top: 20px; 
+}
+
+.achievement-item,
+.license-item {
+  position: relative;
+  background: var(--border-gradient-onyx);
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: var(--shadow-2);
+  z-index: 1;
+}
+
+.achievement-item::before,
+.license-item::before {
+  content: "";
+  position: absolute;
+  inset: 1px;
+  background: var(--bg-gradient-jet);
+  border-radius: inherit;
+  z-index: -1;
+}
+
+.achievement-title,
+.license-title {
+  margin-bottom: 5px;
+}
+
+.achievement-issuer,
+.license-issuer {
+  color: var(--light-gray-70);
+  font-size: var(--fs-7);
+  font-weight: var(--fw-400);
+  text-transform: uppercase;
+}
+
+.achievement-description,
+.license-date {
+  color: var(--light-gray);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-300);
+  line-height: 1.6;
+  margin-top: 10px;
+  color: var(--white-2);
+}
+
+.show-credential-link {
+  color: var(--orange-yellow-crayola);
+  font-size: var(--fs-7);
+  font-weight: var(--fw-500);
+  margin-top: 15px;
+  transition: var(--transition-1);
+}
+
+.show-credential-link:hover {
+   color: var(--white-2);
+}
 
 
 
